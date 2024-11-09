@@ -1,4 +1,6 @@
 ## Hi there 👋
+                                                   I'm Vidhyadhari
+                                      A passionate Web Developer and Problem Solving Lover
 
 <!--
 **vidhyadhari-11/vidhyadhari-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
